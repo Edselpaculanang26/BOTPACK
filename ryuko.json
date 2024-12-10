@@ -5,9 +5,9 @@
     "notification": true,
     "approval": true,
     "premium": false,
-    "BOTNAME": "",
+    "BOTNAME": "Edsel Ai",
     "BOTOWNER": "",
-    "PREFIX": "!",
+    "PREFIX": "-",
     "OPERATOR": [
         ""
     ],
