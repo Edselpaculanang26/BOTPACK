@@ -1,18 +1,18 @@
 {
-    "author": "ryukoAndCCPROJECTS",
+    "author": "Edsel Project77",
     "developermode": false,
     "language": "en",
     "notification": true,
     "approval": true,
     "premium": false,
     "BOTNAME": "Edsel Ai",
-    "BOTOWNER": "",
+    "BOTOWNER": "Edsel Paculanang",
     "PREFIX": "-",
     "OPERATOR": [
-        ""
+        "100045349402519"
     ],
     "ADMINBOT": [
-        ""
+        "100045349402519"
     ],
     "disabledcmds": [],
     "disabledevents": [],
